@@ -1,0 +1,11 @@
+@import '~jquery-ui/themes/base/all.css';
+.ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all {
+    background: #edf2f7 !important;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.modal-bg {
+    background-color: rgba(0, 0, 0, 0.4);
+}
